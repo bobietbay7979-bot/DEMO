@@ -20,7 +20,7 @@ public class Excercise3 {
 				min = a[j];
 			}
 		}
-		System.out.println("Giá trị lớn nhất là:" + max);
-		System.out.println("Giá trị nhỏ nhất là:" + min);
+		System.out.println("The biggest value is:" + max);
+		System.out.println("The smallest vallue is:" + min);
 	}
 }

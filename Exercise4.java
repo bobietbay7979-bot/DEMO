@@ -15,8 +15,8 @@ public class Exercise4 {
 				countodd++;
 			}
 		}
-		System.out.println("số lượng số chẵn trong mãng là:" + counteven);
-		System.out.println("số lượng số lẻ trong mãng là:" + countodd);
+		System.out.println("The amount of even number" + counteven);
+		System.out.println("The amount of odd number:" + countodd);
 	}
 }
 

@@ -13,8 +13,8 @@ public class Excercise2 {
 			sum += a[i];
 		}
 		double average = sum / a.length;
-		System.out.println("Tổng các phần tử:" + sum);
-		System.out.println("Giá trị trung bình:" + average);
+		System.out.println("the total of list:" + sum);
+		System.out.println("the average of list:" + average);
 	}
 
 }
